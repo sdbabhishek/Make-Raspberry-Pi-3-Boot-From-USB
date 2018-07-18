@@ -1,4 +1,4 @@
-# Make-Raspberry-Pi-3-Boot-From-USB----REFERENCED from www.makeuseof.com
+# Make-Raspberry-Pi-3-Boot-From-USB    (REFERENCED from www.makeuseof.com)
 DIY How to Make Raspberry Pi 3 Boot From USB
 
 How to Make Raspberry Pi 3 Boot From USB
